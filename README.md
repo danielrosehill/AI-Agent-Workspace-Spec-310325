@@ -99,17 +99,10 @@ The project currently utilizes the following components:
 
 This document serves to outline the project's concept, current state, and challenges. The primary goal in sharing this now is to connect with others working on similar agent workspace or large-scale agent management problems.
 
-Active exploration is underway regarding the best path forward, considering options from enhancing existing tools (like Open Web UI) to developing custom components (particularly for the frontend UI and orchestration logic).
+ 
 
 By sharing this work, the hope is to:
 
 *   Exchange knowledge and insights with the community exploring agentic workflows.
 *   Identify potential collaborators interested in tackling these UI/UX and orchestration challenges.
 *   Discover existing tools or approaches that might be suitable for building a scalable and versatile agent workspace.
-
- ---
-
-
----
-
-# Appendix 2: Example Configs (Full)
